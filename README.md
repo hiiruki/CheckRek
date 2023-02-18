@@ -36,6 +36,7 @@ Format:
 
 
 ## SCREENSHOT
+
 ![CheckRek](https://user-images.githubusercontent.com/36108013/219376398-4ce78b37-7046-4dec-b5ee-500596f4ba49.png)
 
 
@@ -43,6 +44,10 @@ Format:
 
 All the data that you input has never been inserted into the log or database, it is not affiliated with cekrekening[dot]id, if in doubt there is no need to use it, the account number and account name data are also useless to me. Also, I just use 3rd party API.
 
-## CREDITS
+## ACKNOWLEDGMENT
 
 Thanks to [Vava Heirro](https://github.com/heirro) for the API.
+
+## LICENSE
+
+This software is licensed under the terms of the [MIT License](https://github.com/hiiruki/CheckRek/blob/main/LICENSE).
